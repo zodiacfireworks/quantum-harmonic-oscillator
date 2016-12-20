@@ -66,5 +66,5 @@ order according to laws.
 [2]: https://img.shields.io/badge/License-MIT-blue.svg?maxAge=2592000&style=flat-square
 [3]: https://img.shields.io/badge/Language-Python-green.svg?maxAge=2592000&style=flat-square
 [4]: https://img.shields.io/badge/Language-HTML5-orange.svg?maxAge=2592000&style=flat-square
-[5]: https://img.shields.io/badge/Language-Markdown-white.svg?maxAge=2592000&style=flat-square
+[5]: https://img.shields.io/badge/Language-Markdown-lightgrey.svg?maxAge=2592000&style=flat-square
 [6]: https://img.shields.io/badge/Tool-Jupyter%20Notebook-orange.svg?maxAge=2592000&style=flat-square
