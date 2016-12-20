@@ -3,7 +3,8 @@
 [![Preview](./banner.png)][1]
 [![MIT License][2]][1] [![Python][3]][1] [![HTML5][4]][1] [![MD][5]][1] [![Jupyter Notebook][6]][1]
 
-A Sample artible completely writen in Jupyter Notebook.
+A Sample article completely writen in Jupyter Notebook whit some ugly hacks fot html
+formatting :sweat_smile:
 
 This notebook can be used to show some capabilities of Jupyter Notebook, to
 explain the quantum harmonic oscilator, to show some fancy graphs ...
