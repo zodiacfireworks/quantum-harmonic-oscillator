@@ -1,0 +1,7 @@
+# Directory patterns
+OLD
+.ipynb_checkpoints
+
+# Files Directory
+.stfolder
+.pyc
