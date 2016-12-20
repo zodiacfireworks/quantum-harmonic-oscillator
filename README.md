@@ -1,4 +1,4 @@
-# Meteorological faker
+# Quantum harmonic oscillator
 
 [![Preview](./banner.png)][1]
 [![MIT License][2]][1] [![Python][3]][1] [![HTML5][4]][1] [![MD][5]][1] [![Jupyter Notebook][6]][1]
