@@ -1,20 +1,18 @@
 # Quantum harmonic oscillator
 
 [![Preview](./banner.png)][1]
-[![MIT License][2]][1] [![Python][3]][1] [![HTML5][4]][1] [![MD][5]][1] [![Jupyter Notebook][6]][1]
+[![MIT License][2]][1] [![Python][3]][1] [![HTML5][4]][1] [![MD][5]][1] [![Jupyter Notebook][6]][1] [![Physics][7]][1]
 
-A Sample article completely writen in Jupyter Notebook whit some ugly hacks fot html
-formatting :sweat_smile:
+A Sample article completely writen in Jupyter Notebook whit some ugly hacks for html formatting :sweat_smile:
 
-This notebook can be used to show some capabilities of Jupyter Notebook, to
-explain the quantum harmonic oscilator, to show some fancy graphs ...
+This notebook can be used to show some capabilities of Jupyter Notebook, to explain the quantum harmonic oscilator :cat2: or to show some fancy graphs :sunglasses:
 
 
 ## How to use
 
 1. Clone the repository
     ```
-    git clone https://github.com/zodiacfireworks/meteorological-faker.git
+    git clone https://github.com/zodiacfireworks/quantum-harmonic-oscillator.git
     ```
 
 2. Start the jupyter nothebook server
@@ -68,3 +66,4 @@ order according to laws.
 [4]: https://img.shields.io/badge/Language-HTML5-orange.svg?maxAge=2592000&style=flat-square
 [5]: https://img.shields.io/badge/Language-Markdown-lightgrey.svg?maxAge=2592000&style=flat-square
 [6]: https://img.shields.io/badge/Tool-Jupyter%20Notebook-orange.svg?maxAge=2592000&style=flat-square
+[7]: https://img.shields.io/badge/Topic-Physics%20Notebook-green.svg?maxAge=2592000&style=flat-square
