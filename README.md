@@ -66,4 +66,4 @@ order according to laws.
 [4]: https://img.shields.io/badge/Language-HTML5-orange.svg?maxAge=2592000&style=flat-square
 [5]: https://img.shields.io/badge/Language-Markdown-lightgrey.svg?maxAge=2592000&style=flat-square
 [6]: https://img.shields.io/badge/Tool-Jupyter%20Notebook-orange.svg?maxAge=2592000&style=flat-square
-[7]: https://img.shields.io/badge/Topic-Physics%20Notebook-green.svg?maxAge=2592000&style=flat-square
+[7]: https://img.shields.io/badge/Topic-Physics-green.svg?maxAge=2592000&style=flat-square
