@@ -7,6 +7,15 @@ A Sample article completely writen in Jupyter Notebook whit some ugly hacks for 
 
 This notebook can be used to show some capabilities of Jupyter Notebook, to explain the quantum harmonic oscilator :cat2: or to show some fancy graphs :sunglasses:
 
+PS: The article is written in Spanish
+
+## Where to see
+
+See this notebook on
+
+* [Github](https://goo.gl/eAjjwx)
+* [nbviewer](https://goo.gl/ZcR7JE)
+* [Anaconda Cloud](https://goo.gl/nVOvTg)
 
 ## How to use
 
