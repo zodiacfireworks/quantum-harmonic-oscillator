@@ -5,7 +5,7 @@
 
 A Sample article completely writen in Jupyter Notebook whit some ugly hacks for html formatting :sweat_smile:
 
-This notebook can be used to show some capabilities of Jupyter Notebook, to explain the quantum harmonic oscilator :cat2: or to show some fancy graphs :sunglasses:
+This notebook can be used to show some capabilities of Jupyter Notebook :snake:, to explain the quantum harmonic oscilator :cat2: or to show some fancy graphs :sunglasses:
 
 PS: The article is written in Spanish
 
