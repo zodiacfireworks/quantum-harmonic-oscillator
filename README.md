@@ -9,6 +9,7 @@ This notebook can be used to show some capabilities of Jupyter Notebook :snake:,
 
 PS: The article is written in Spanish
 
+
 ## Where to see
 
 See this notebook on
@@ -17,23 +18,31 @@ See this notebook on
 * [nbviewer](https://goo.gl/ZcR7JE)
 * [Anaconda Cloud](https://goo.gl/nVOvTg)
 
+
 ## How to use
 
 1. Clone the repository
-    ```
+    ```bash
     git clone https://github.com/zodiacfireworks/quantum-harmonic-oscillator.git
     ```
 
-2. Start the jupyter nothebook server
+1. Create a conda environment
+    ```bash
+    conda create -n qho python=3 anaconda
     ```
+
+2. Start the jupyter nothebook server
+    ```bash
     jupyter notebook
     ```
 
 3. Waits until the web browser is open, navigate to the repository directory and enjoy :smile:
 
+
 ## Author
 
 * [@zodiacfireworks](https://github.com/zodiacfireworks)
+
 
 ## Licensing
 
