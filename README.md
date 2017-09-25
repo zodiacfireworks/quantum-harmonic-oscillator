@@ -40,6 +40,9 @@ See this notebook on
 3. Waits until the web browser is open, navigate to the repository directory and enjoy :smile:
 
 
+_If you don't have `conda`, install it using [this](https://gist.github.com/zodiacfireworks/987c1cc219c1557199c2489b0ed1b93b) script for linux._
+
+
 ## Author
 
 * [@zodiacfireworks](https://github.com/zodiacfireworks)
