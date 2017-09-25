@@ -26,9 +26,10 @@ See this notebook on
     git clone https://github.com/zodiacfireworks/quantum-harmonic-oscillator.git
     ```
 
-1. Create a conda environment
+1. Create a conda environment and activate it
     ```bash
     conda create -n qho python=3 anaconda
+    source activate qho
     ```
 
 2. Start the jupyter nothebook server
